@@ -22,6 +22,7 @@ Users can add grocery items, mark them as completed, and clear the entire list w
 - CSS3
 - Vite
 - HTML5
+- 
 📂 Project Structure
 
 text
