@@ -3,9 +3,11 @@
 A simple and user-friendly Grocery List application built with React that helps users create and manage shopping lists efficiently. <img width="683" height="977" alt="image" src="https://github.com/user-attachments/assets/5e021e53-24f5-49f4-81ea-acfc55aba39d" />
 
 Users can add grocery items, mark them as completed, and clear the entire list with a single click.
+
 📸 Preview
 
 [Grocery List App](./src/man.jpg)
+
 ✨ Features
 
 - Add grocery items to your shopping list
@@ -15,6 +17,7 @@ Users can add grocery items, mark them as completed, and clear the entire list w
 - Input validation to prevent empty entries
 - Clean and responsive user interface
 - Attractive grocery-themed design
+  
 🚀 Technologies Used
 
 - React
@@ -22,7 +25,7 @@ Users can add grocery items, mark them as completed, and clear the entire list w
 - CSS3
 - Vite
 - HTML5
-- 
+  
 📂 Project Structure
 
 text
@@ -42,6 +45,7 @@ my-app/
 ├── vite.config.js
 └── README.md
 ```
+
 📖 How It Works
 
 1. Enter a grocery item in the input field.
@@ -50,6 +54,7 @@ my-app/
 4. Click an item to mark it as completed.
 5. Completed items are crossed out.
 6. Click “Delete” to clear the entire list.
+
 🧩 Main Component
 
 GroceryList.jsx
@@ -61,6 +66,7 @@ The application uses a class-based React component to manage:
 - Adding new items
 - Deleting all items
 - Toggling completed items
+
 🎨 User Interface
 
 The application includes:
@@ -69,6 +75,7 @@ The application includes:
 - Interactive checklist icons
 - Responsive layout
 - Clear action buttons for adding and deleting items
+
 🔮 Future Improvements
 
 - Edit individual items
