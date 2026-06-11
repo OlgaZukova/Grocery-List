@@ -44,11 +44,11 @@ my-app/
 📖 How It Works
 
 1. Enter a grocery item in the input field.
-2. Click the **Add** button.
+2. Click the “Add” button.
 3. The item appears in the shopping list.
 4. Click an item to mark it as completed.
 5. Completed items are crossed out.
-6. Click **Delete** to clear the entire list.
+6. Click “Delete” to clear the entire list.
 🧩 Main Component
 
 GroceryList.jsx
@@ -79,6 +79,7 @@ The application includes:
 - Mobile-first enhancements
 
 ⭐ If you found this project helpful, consider giving it a star on GitHub!
+
 
 
 
